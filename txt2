@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/ravefrr/obfuscated/raw/main/v1", true))() 
+loadstring(game:HttpGet("https://github.com/ravefrr/obfuscated/raw/main/v12", true))() 
