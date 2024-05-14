@@ -1,1 +1,21 @@
+--[[
+        ,----,                         
+      ,/   .`|                         
+    ,`   .'  :        .---.,-.----.    
+  ;    ;     /       /. ./|\    /  \   
+.'___,/    ,'    .--'.  ' ;;   :    \  
+|    :     |    /__./ \ : ||   | .\ :  
+;    |.';  ;.--'.  '   \' ..   : |: |  
+`----'  |  /___/ \ |    ' '|   |  \ :  
+    '   :  ;   \  \;      :|   : .  /  
+    |   |  '\   ;  `      |;   | |  \  
+    '   :  | .   \    .\  ;|   | ;\  \ 
+    ;   |.'   \   \   ' \ |:   ' | \.' 
+    '---'      :   '  |--" :   : :-'   
+                \   \ ;    |   |.'     
+                 '---"     `---'
+
+IF YOU TRY TO SKID THIS WE WILL WILL MAKE SURE YOU WILL BE BLACKLISTED FROM OTHER SCRIPTS TOO.
+]]--
+
 loadstring(game:HttpGet("https://github.com/ravefrr/obfuscated/raw/main/v1.0", true))() 
